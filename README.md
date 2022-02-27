@@ -9,8 +9,8 @@ Tech Stack used is
 - Supabase
 ---
  Team details
-- Team Code : Debuggers
-- Team Name : 0d2f7208f4
+- Team Code : 0d2f7208f4
+- Team Name : Debuggers
 - IsFresher: True
 ---
 
