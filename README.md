@@ -1,13 +1,12 @@
 # Hackmol-3 ![logo](https://user-images.githubusercontent.com/96533388/155885888-d0dce633-8bd3-425c-bca4-bc032d2dc09d.png)
 
-## Idea - A Hacakathon test submission
+## Idea - A Single website for all the work of college
 
 Tech Stack used is 
 - HTML
 - CSS
 - Javascript
 - Supabase
-- 
 ---
  Team details
 - Team Code : Debuggers
