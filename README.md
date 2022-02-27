@@ -47,7 +47,6 @@ After sign in our can select your role - teacher or student
 
 If you select your role as teacher: you will be directed to teacher's page.
 ![teacher](https://user-images.githubusercontent.com/96533388/155884720-28c23742-fc4a-4a03-8581-d3466f956faf.png)
-![Screenshot (172)](https://user-images.githubusercontent.com/96533388/155884775-f5ae3c65-9d86-49da-9f24-64fe3df23ea2.png)
 Where you get to:
     a) See notices
     b) A option to put more notices for students - like today there is no class.
