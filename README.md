@@ -1,4 +1,4 @@
-# Hackmol-3 <img heigth: 50px src = "![logo](https://user-images.githubusercontent.com/96533388/155885888-d0dce633-8bd3-425c-bca4-bc032d2dc09d.png)" / >
+# Hackmol-3 ![logo](https://user-images.githubusercontent.com/96533388/155885888-d0dce633-8bd3-425c-bca4-bc032d2dc09d.png)
 
 ## Idea - A Single website to assist students and staff.
 
