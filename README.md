@@ -1,4 +1,5 @@
-# Hackmol-3
+# Hackmol-3 ![logo](https://user-images.githubusercontent.com/96533388/155885888-d0dce633-8bd3-425c-bca4-bc032d2dc09d.png)
+
 COMPONENTS USED
 It is a web-application made by using the HTML, CSS, JS and Supabase for backend database and authentication.
 
