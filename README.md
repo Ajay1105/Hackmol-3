@@ -1,7 +1,19 @@
 # Hackmol-3 ![logo](https://user-images.githubusercontent.com/96533388/155885888-d0dce633-8bd3-425c-bca4-bc032d2dc09d.png)
 
-COMPONENTS USED
-It is a web-application made by using the HTML, CSS, JS and Supabase for backend database and authentication.
+## Idea - A Hacakathon test submission
+
+Tech Stack used is 
+- HTML
+- CSS
+- Javascript
+- Supabase
+- 
+---
+ Team details
+- Team Code : Debuggers
+- Team Name : 0d2f7208f4
+- IsFresher: True
+---
 
 IDEA BEHIND THE APPLICATION
 To bring all the different software used by a college to a single place. It assists all the working staff and student to manage their work easily.
