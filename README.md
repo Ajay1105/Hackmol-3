@@ -17,7 +17,7 @@ Tech Stack used is
 IDEA BEHIND THE APPLICATION
 To bring all the different software used by a college to a single place. It assists all the working staff and student to manage their work easily.
 
-
+---
 BASIC WORKING
 
 For administration (Yet to be implemented) <br />
@@ -43,9 +43,9 @@ For Students <br />
   e) Show their growth report in the form of graphs and table. <br />
   f) Notice board which displays notices from Teachers. <br />
   
-  As we are new to Web development few features of website is yet to implemented. <br />
+  <em>As we are new to Web development few features of website is yet to implemented.</em> <br />
   
-  
+---  
   When you open vist our website you will reach our homepage  <br />
   ![home page](https://user-images.githubusercontent.com/96533388/155884525-454ffe68-d27b-4dd0-b0e9-b79b2d75e72c.png)
  On home page you will get about details of our webiste and three various options including signin. <br />
