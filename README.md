@@ -46,7 +46,7 @@ For Students <br />
   <em>As we are new to Web development few features of website is yet to implemented.</em> <br />
   
 ---  
-###Images
+### Images
 
   When you open vist our website you will reach our homepage  <br />
   ![home page](https://user-images.githubusercontent.com/96533388/155884525-454ffe68-d27b-4dd0-b0e9-b79b2d75e72c.png)
