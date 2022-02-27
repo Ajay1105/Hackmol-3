@@ -9,30 +9,30 @@ To bring all the different software used by a college to a single place. It assi
 
 BASIC WORKING
 
-For administration (Yet to be implemented)
-  a) Maintain the record of the institution like: -
-         i)   Basic details of the student.
+For administration (Yet to be implemented) <br />
+  a) Maintain the record of the institution like: - <br />
+         i)   Basic details of the student. <br />
          ii)  Details of the teachers and other co-staff working in the college including their date of joining.
-         iii) Addition and removal of staff and student of the college.
-  b) Broadcast system to display any notice or something.
-  c) Maintain the finance record of the college funding and amount used in various project and some ongoing projects in the college.
+         iii) Addition and removal of staff and student of the college. <br />
+  b) Broadcast system to display any notice or something. <br />
+  c) Maintain the finance record of the college funding and amount used in various project and some ongoing projects in the college. <br />
 
-For Teachers
-  a) Maintain the academic report of the students they are teaching.
-  b) Result portal to calculate the result of the students.
-  c) Time-Table of the particular teacher can also be uploaded to their respective portal by them.
-  d) Graphs of the student of their performance in their subject according to the marks scored by them.
-  e)  Broadcast system to display any notice or something for stundents.
+For Teachers <br />
+  a) Maintain the academic report of the students they are teaching. <br />
+  b) Result portal to calculate the result of the students. <br />
+  c) Time-Table of the particular teacher can also be uploaded to their respective portal by them. <br />
+  d) Graphs of the student of their performance in their subject according to the marks scored by them. <br />
+  e)  Broadcast system to display any notice or something for stundents. <br />
 
-For Students
-  a) To-Do list portal. (Can update their assignment due date and get the reminder)
-  b) Result portal to see their result updated by their teachers.
-  c) Can update their assignments as pdf files for their future reference.
-  d) Contact details of members of adminstration department and faculty members in case they need assistance.
-  e) Show their growth report in the form of graphs and table.
-  f) Notice board which displays notices from Teachers.
+For Students <br />
+  a) To-Do list portal. (Can update their assignment due date and get the reminder) <br />
+  b) Result portal to see their result updated by their teachers. <br />
+  c) Can update their assignments as pdf files for their future reference. <br />
+  d) Contact details of members of adminstration department and faculty members in case they need assistance. <br />
+  e) Show their growth report in the form of graphs and table. <br />
+  f) Notice board which displays notices from Teachers. <br />
   
-  As we are new to Web development few features of website is yet to implemented.
+  As we are new to Web development few features of website is yet to implemented. <br />
   
   
   When you open vist our website you will reach our homepage 
